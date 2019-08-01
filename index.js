@@ -61,7 +61,7 @@ const MessMenuHandlerWithDay = {
     var currentDay = new Date() ;
   	var week_no = currentDay.getDay();
   	
-    var day = handlerInput.requestEnvelope.request.intent.slots.day.resolutions.resolutionsPerAuthority[0].values[0].value.id;
+    	var day = handlerInput.requestEnvelope.request.intent.slots.day.resolutions.resolutionsPerAuthority[0].values[0].value.id;
   	var meal = handlerInput.requestEnvelope.request.intent.slots.meal.resolutions.resolutionsPerAuthority[0].values[0].value.id;
   	
   	switch (day) {
