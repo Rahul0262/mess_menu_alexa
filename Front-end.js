@@ -103,7 +103,8 @@
                             "name": {
                                 "value": "tomorrow",
                                 "synonyms": [
-                                    "tomorrows"
+                                    "tomorrows",
+                                    "tomorrow's"
                                 ]
                             }
                         },
@@ -112,7 +113,8 @@
                             "name": {
                                 "value": "yesterday",
                                 "synonyms": [
-                                    "yesterdays"
+                                    "yesterdays",
+                                    "yesterday's"
                                 ]
                             }
                         },
@@ -121,7 +123,8 @@
                             "name": {
                                 "value": "today",
                                 "synonyms": [
-                                    "todays"
+                                    "todays",
+                                    "today's"
                                 ]
                             }
                         },
@@ -130,7 +133,8 @@
                             "name": {
                                 "value": "monday",
                                 "synonyms": [
-                                    "mondays"
+                                    "mondays",
+                                    "monday's"
                                 ]
                             }
                         },
@@ -139,7 +143,8 @@
                             "name": {
                                 "value": "tuesday",
                                 "synonyms": [
-                                    "tuesdays"
+                                    "tuesdays",
+                                    "tuesday's"
                                 ]
                             }
                         },
@@ -148,7 +153,8 @@
                             "name": {
                                 "value": "wednesday",
                                 "synonyms": [
-                                    "wednesdays"
+                                    "wednesdays",
+                                    "wednesday's"
                                 ]
                             }
                         },
@@ -157,7 +163,8 @@
                             "name": {
                                 "value": "thursday",
                                 "synonyms": [
-                                    "thursdays"
+                                    "thursdays",
+                                    "thursday's"
                                 ]
                             }
                         },
@@ -166,7 +173,8 @@
                             "name": {
                                 "value": "friday",
                                 "synonyms": [
-                                    "fridays"
+                                    "fridays",
+                                    "friday's"
                                 ]
                             }
                         },
@@ -175,7 +183,8 @@
                             "name": {
                                 "value": "saturday",
                                 "synonyms": [
-                                    "saturdays"
+                                    "saturdays",
+                                    "saturday's"
                                 ]
                             }
                         },
@@ -184,7 +193,8 @@
                             "name": {
                                 "value": "sunday",
                                 "synonyms": [
-                                    "sundays"
+                                    "sundays",
+                                    "sunday's"
                                 ]
                             }
                         }
